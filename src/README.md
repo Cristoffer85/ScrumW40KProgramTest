@@ -163,8 +163,8 @@ Kund har vid detta tillfälle valt att ta det, för de vill ha det bästa funkti
 --------------------------
 #### Skärmbild ifrån Miro-board produktbacklog och sprintplan.
 
-![Namnlos2.png](..%2F..%2F..%2F..%2FNamnlos2.png)
+![Namnlos2.png](Namnlos2.png)
 
 #### ER-diagram för databasen.
 
-![Namnlos.png](..%2F..%2F..%2F..%2FNamnlos.png)
+![Namnlos.png](Namnlos.png)
