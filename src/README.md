@@ -82,7 +82,7 @@ Medlemmar i team:
 
 
 
-### Sprint 1: Grundapplikationen användare  				1 vecka
+### Sprint 1: Grundapplikationen användare  				1 vecka 
     Sprintplanering					                       Tidsest.
 
 
