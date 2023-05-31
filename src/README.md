@@ -2,7 +2,7 @@
 
 ## Cristoffer Östberg
 
-## 1. Produktvision
+## 1. Produktvision 
 
 Games Workshop behöver ett nytt inventariehanteringssystem för sina olika karaktärsklasser (IRL).  
 Karaktärerna de har är:
