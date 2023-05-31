@@ -168,4 +168,3 @@ Kund har vid detta tillfälle valt att ta det, för de vill ha det bästa funkti
 
 #### ER-diagram för databasen.
 
-![Namnlos.png](Namnlos.png)
