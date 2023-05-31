@@ -25,7 +25,7 @@ De vill ha ett stabilt och pålitligt (simpelt) system, i en ändå snygg design
 * Steg 2 är sedan 
 
 
-   när första steget är klart --> 
+     när första steget är klart --> 
 
 beroende på hur det första steget gick: Ej drar ut på tid eller kostnad för mycket, då kan de avbryta.   
     	- Detta har kund satt som en säkring/extratillägg för att se att vi verkligen är det fantastiska företag och team vi utger oss för att vara. 
