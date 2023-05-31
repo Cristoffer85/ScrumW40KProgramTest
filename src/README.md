@@ -167,4 +167,5 @@ Kund har vid detta tillfälle valt att ta det, för de vill ha det bästa funkti
 ![Namnlos2.png](Namnlos2.png)
 
 #### ER-diagram för databasen.
+![Namnlos.png](Namnlos.png)
 
