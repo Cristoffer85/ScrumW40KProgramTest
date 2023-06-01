@@ -24,8 +24,6 @@ De vill ha ett stabilt och pålitligt (simpelt) system, i en ändå snygg design
 * Steg 1 är att utveckla programdelen i sig för användare.
 * Steg 2 är sedan
 
-
-
     --> när första steget är klart: 
 
 beroende på hur det första steget gick: Ej drar ut på tid eller kostnad för mycket, då kan de avbryta.   
