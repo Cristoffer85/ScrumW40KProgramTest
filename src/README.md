@@ -51,7 +51,7 @@ Programmet kommer bestå av en huvuddatabas med mindre collections i sig som kom
     Du kan både få ut en lista med hur det ser ut med lagersaldo för individuell Faktion, eller en total lista för samtliga faktioner i ett enda långt dokument. 
      
 
-* Tillägg i användarKlassen är att: När säljaren gör en beställning/lägger till något ifrån databasen (En karaktär) finns en stor vertikal TV-skärm på sidan som visar just den huvudkaraktärsklassen + faktionen i en “live-video-stance” när den står upp på skärmen i aktion, som i en “rullande GIF- eller kortare video-sekvens". Detta hämtas ifrån en separat video i resourceKlass. 
+* Tillägg i användarKlassen är att: När säljaren gör en beställning/lägger till något ifrån databasen (En karaktär) finns en stor vertikal TV-skärm (Eller t.o.m. Hologramprojektor) på sidan som visar just den huvudkaraktärsklassen + faktionen i en “live-stance” när den står på skärmen. Som i en “rullande GIF- eller kortare video-sekvens". Detta hämtas ifrån en separat video i resourceKlass. 
 
 
 
